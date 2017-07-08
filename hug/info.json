@@ -4,4 +4,7 @@
     "NAME" : "hug",
     "SHORT" : "[p]hug @user",
     "DESCRIPTION" : "Hug your senpai/waifu!"
+    "TAGS" : ["hug"],
+    "REQUIREMENTS" : [],
+    "HIDDEN" : false
 }
