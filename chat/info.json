@@ -5,6 +5,6 @@
     "SHORT" : "[p]chat",
     "DESCRIPTION" : "Self-learning chatterbot without having to pay for API calls! \o/",
     "TAGS" : ["chat"],
-    "REQUIREMENTS" : [],
+    "REQUIREMENTS": ["chatterbot"],
     "HIDDEN" : false
 }
