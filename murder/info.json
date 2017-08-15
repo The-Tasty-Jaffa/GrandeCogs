@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "The Tasty Jaffa",
+    "INSTALL_MSG" : "murder cog - Allows people to murder and investigate murders",
+    "NAME" : "murder",
+    "SHORT" : "murder, revive and other uesless stuff",
+    "DESCRIPTION" : "Kill people in many different ways, revive people, investigate deaths and other useless things",
+    "TAGS" : ["fun"],
+    "REQUIREMENTS": ["chatterbot"],
+    "HIDDEN" : false
+}
